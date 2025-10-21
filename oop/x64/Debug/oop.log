@@ -1,0 +1,4 @@
+﻿  main .cpp
+C:\Users\PC\Documents\oop\oop\main .cpp(9,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Documents\oop\oop\main .cpp(18,12): warning C4305: 'argument': truncation from 'double' to 'float'
+  oop.vcxproj -> C:\Users\PC\Documents\oop\x64\Debug\oop.exe
